@@ -1,0 +1,7 @@
+.import/
+.export/
+.cache/
+.sconsign.dblite
+*.godot
+*.tmp
+addons/
